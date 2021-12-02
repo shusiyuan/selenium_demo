@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-
+#定位qq音乐内地榜攀升势头的歌曲信息，并输出
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 

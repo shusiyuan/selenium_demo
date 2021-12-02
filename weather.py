@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-
+#获取中国天气网广东日温最高的城市列表
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
